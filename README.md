@@ -22,6 +22,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
   - [Chatting](#chatting)
   - [Cloud Infrastructure and Management](#cloud-infrastructure-and-management)
   - [Code Analysis](#code-analysis)
+  - [Code Generators](#code-generators)
   - [Command Line Applications](#command-line-applications)
   - [Configuration](#configuration)
   - [Cryptography](#cryptography)
@@ -440,6 +441,9 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [excoveralls](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 * [exprof](https://github.com/parroty/exprof) - A simple code profiler for Elixir, using eprof.
 * [int_set](https://github.com/Cantido/int_set) - A time- and memory-efficient unordered data structure for positive integers.
+
+## Code Generators
+*Libraries and tools for code base analysis, parsing, and manipulation.*
 
 ## Command Line Applications
 *Anything helpful for building CLI applications.*
