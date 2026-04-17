@@ -443,7 +443,9 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [int_set](https://github.com/Cantido/int_set) - A time- and memory-efficient unordered data structure for positive integers.
 
 ## Code Generators
-*Libraries and tools for code base analysis, parsing, and manipulation.*
+*Libraries and tools for automatically generating code or project scaffolding.*
+
+* [smithy-beam](https://github.com/f34nk/smithy-beam) - [Smithy](https://smithy.io/) code generator for BEAM languages (Erlang, Elixir, Gleam). **Contract-first** API development.
 
 ## Command Line Applications
 *Anything helpful for building CLI applications.*
